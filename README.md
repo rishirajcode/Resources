@@ -3,7 +3,7 @@
 PDF containing a roadmap for learning different courses with free resourses links inside.
 
 ANDROID Course resourses for Beginner to Adv
-C++/JAVA resources for beg to adv level. (Complete from Language->OOPs->DSA)
+C++/JAVA resources for beg to adv level. (Complete Language->OOPs->DSA)
 
 
 
